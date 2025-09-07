@@ -32,7 +32,8 @@ I worked as a consultant for an online retail store to analyze business performa
 - Delivered executive insights to support data-driven growth strategies  
 
 ## Dataset
-The dataset used in this project is based on the **UCI Online Retail dataset (2011 transactions)**.  
+The dataset was provided as part of the Tata Group Virtual Experience Program.  
+It contains 2011 online retail transaction records, used to analyze revenue trends, customer segments, and regional performance.  
 Source: [UCI Machine Learning Repository – Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 ## Author
