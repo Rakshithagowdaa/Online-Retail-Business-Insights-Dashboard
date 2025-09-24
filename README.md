@@ -3,7 +3,6 @@ Built an interactive Power BI dashboard during Tata Group Virtual Experience, an
 # Online Retail Dashboard – Tata Group
 
 ## Project Overview
-This project was completed as part of the Tata Group Virtual Experience Program.  
 I worked as a consultant for an online retail store to analyze business performance and deliver insights that would help the CEO and CMO make strategic decisions around revenue growth, customer retention, and market expansion.
 
 ## Objectives
